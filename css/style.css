@@ -14,6 +14,10 @@ html, body {
     font-family: 'Roboto Slab', serif;
 }
 
+p, a {
+    line-height: 1.6;
+}
+
 .main {
     margin: 0 auto;
     max-width: 768px;
